@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PRACTICA01-S2-APPMOVILS6</string>
+
+    <!-- Login -->
+    <string name="logo_uteq">Logo UTEQ</string>
+    <string name="login_titulo">Iniciar sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="error_usuario_vacio">Ingrese el usuario</string>
+    <string name="error_clave_vacia">Ingrese la contraseña</string>
+    <string name="error_credenciales">Usuario o contraseña incorrectos</string>
+
+    <!-- Principal -->
+    <string name="bienvenida">¡Bienvenido, %1$s!</string>
+</resources>
